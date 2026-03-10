@@ -78,10 +78,10 @@
 ### P0 执行资产（已落地）
 
 1. `P0_执行总览_US-first_2026-02-17.md`
-2. `p0/01_NY_CA_条款到功能映射.md`
-3. `p0/02_危机干预运行手册_红队.md`
-4. `p0/03_21天留存实验设计.md`
-5. `p0/04_Claims_Review_清单.md`
+2. `../compliance/01_NY_CA_条款到功能映射.md`
+3. `../compliance/02_危机干预运行手册_红队.md`
+4. `../research/03_21天留存实验设计.md`
+5. `../compliance/04_Claims_Review_清单.md`
 
 ### P1（短中期，31-60天）
 
@@ -117,9 +117,9 @@
 
 ## 文档内参考来源
 
-- `docs/Luma_AI宠物创业报告_更新版.md`
-- `docs/AI意识、伦理与孤独经济：核心理论、前沿进展与关键数据.md`
-- `README.md`
+- `Luma_AI宠物创业报告_更新版.md`
+- `../research/AI意识、伦理与孤独经济：核心理论、前沿进展与关键数据.md`
+- `../README.md`
 - WHO social connection update (2025-06-30)
 - New York GBS Article 47
 - California SB 243
